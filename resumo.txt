@@ -1,0 +1,11 @@
+Este código utiliza a biblioteca pyautogui para automatizar cliques do mouse em uma posição específica da tela. Aqui está o resumo simples:
+
+Instalação: Primeiro, é necessário instalar a biblioteca pyautogui usando o comando pip install pyautogui.
+
+O que o código faz:
+
+O código move o mouse para uma posição específica da tela e faz um clique.
+O comando time.sleep(2) faz o programa esperar 2 segundos antes de executar a próxima ação, permitindo o carregamento da página ou aplicação.
+Como parar: Se você quiser parar a automação enquanto o código está rodando, basta mover o mouse para o canto superior esquerdo da tela.
+
+Esse código pode ser útil para automatizar tarefas repetitivas, como clicar em botões ou abrir arquivos, economizando tempo em processos manuais!
